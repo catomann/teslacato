@@ -1,0 +1,35 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Catomann",
+    "longName": "Tesla remote for Pebble",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "TeslaCato",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "5e453d78-7e6d-46a8-bc6c-7a519193e747",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
